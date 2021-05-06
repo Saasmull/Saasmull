@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saasmull
 - 👀 I’m interested in PHP, JavaScript, Java and C++
 - 🌱 I’m currently learning making my own AppStore
-- 💞️ I’m looking to collaborate on ...
+- ⏲️ I’m born in 2005
 - 📫 How to reach me saasmull1@gmail.com
 
 <!---
