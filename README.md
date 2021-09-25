@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saasmull
-- 👀 I’m interested in PHP, JavaScript, Java and C++
+- 👀 I’m interested in PHP, JavaScript, Java, C, C++ and Phyton
 - 🌱 I’m currently learning making my own AppStore
 - ⏲️ I’m born in 2005
 - 📫 How to reach me saasmull1@gmail.com
