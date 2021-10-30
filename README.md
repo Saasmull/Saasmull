@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saasmull
-- 👀 I’m interested in PHP, JavaScript, Java, C, C++ and Phyton
+- 👀 I’m interested in PHP, JavaScript, Java, C, C++, Phyton, HTML, JSON, XML, CSS ans MD
 - 🌱 I’m currently learning making a Minecraft command editor
 - ⏲️ I’m born in 2005
 - 📫 How to reach me saasmull1@gmail.com
