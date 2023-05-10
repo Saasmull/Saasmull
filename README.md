@@ -5,7 +5,7 @@
 - 📫 How to reach me saasmull1@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saasmull)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saasmull&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
